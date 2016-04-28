@@ -47,6 +47,6 @@ I have built and led a number of agile and distributed software development team
 
 # Opinions and prejudices
 
- * the perfect is the enemy of good
+ * the perfect is the enemy of the good
  * untested code is broken code
  * automate or die!

@@ -1,16 +1,16 @@
 # Muharem Hrnjadovic: curriculum vitae
 
 # About me
-I have held positions that involved some degree of technical leadership (senior/principal engineer, SW dev manager, director of engineering, CTO) for a decade now. My key skills are:
+I have held positions that involved some degree of technical leadership (senior/principal engineer, software development manager, director of engineering, CTO) for a decade now. My top 3 strenghts are as follows:
  * building, developing and running high-performance teams (local and/or remote)
- * providing technological leadership and guidance to the organisation (based on 20+ years of software development experience and solid instincts in the areas of system architecture)
+ * providing technological leadership and guidance to the entire organisation (based on 20+ years of software development experience)
  * building systems
 
 # My skills
 ## People / culture
  * hiring, mentoring, empowering
  * setting direction
- * establishing an engineering culture of quality, experimentation, iterative development and delivery
+ * establishing a culture of experimentation, iterative development, quality and delivery
 
 ## Product / project
  * collaborating in product definitions
@@ -40,11 +40,11 @@ Various linuxes e.g. Ubuntu, Arch
 I have built and led a number of agile and distributed software development teams in the last couple of years
 
 ### Community
- * I started and ran the [biggest IT meetup group in Zurich](http://www.meetup.com/zhgeeks/) for a number of years
- * I was one of the founders the [Swiss OpenStack user group](http://www.meetup.com/openstack-ch/)
+ * initiated and ran the [biggest IT meetup group in Zurich](http://www.meetup.com/zhgeeks/) for a number of years
+ * co-founded the [Swiss OpenStack user group](http://www.meetup.com/openstack-ch/)
 
 # Opinions and prejudices
 
- * perfect is the enemy of good
+ * the perfect is the enemy of good
  * untested code is broken code
  * automate or die!

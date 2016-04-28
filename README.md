@@ -21,8 +21,8 @@ My top 3 strenghts are as follows:
 ## Information technology
 ### Programming languages
  * Python: 6+ years of experience, see e.g. the [OpenQuake engine](https://github.com/gem/oq-engine) for some samples of my work
- * erlang: solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/erlang)
- * elixir: solid knowledge, also wrote a couple of small tools using it.
+ * [erlang](https://www.fastcompany.com/3026758/inside-erlang-the-rare-programming-language-behind-whatsapps-success): solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/erlang)
+ * [elixir](https://pragprog.com/book/elixir/programming-elixir): solid knowledge, also wrote a couple of small tools using it.
    Here's an [example](https://github.com/arbeit/mmt)
 
 ### Operating systems

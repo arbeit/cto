@@ -16,7 +16,7 @@ My top 3 strenghts are as follows:
 ## Product / project
  * collaborating in product definitions
  * breaking products / services down to technical requirements
- * running the feedback / feasibility loop between the technical / business team
+ * running the feedback loop between the technical / business team
 
 ## Programming languages
  * Python: 6+ years of experience, see e.g. the [OpenQuake engine](https://github.com/gem/oq-engine) for some samples of my work

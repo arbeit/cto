@@ -3,15 +3,14 @@
 # About me
 I have held positions that involved some degree of technical leadership (senior/principal engineer, SW dev manager, director of engineering, CTO) for a decade now. My key skills are:
  * building, developing and running high-performance teams (local and/or remote)
- * acting as a "bidirectional bridge" between business and technology
- * providing technological leadership and guidance (based on 20+ years of software development experience and solid instincts in the areas of system architecture)
+ * providing technological leadership and guidance to the organisation (based on 20+ years of software development experience and solid instincts in the areas of system architecture)
  * building systems
 
 # My skills
 ## People / culture
  * hiring, mentoring, empowering
  * setting direction
- * establishing an engineering culture of experimentation, iterative development and delivery
+ * establishing an engineering culture of quality, experimentation, iterative development and delivery
 
 ## Product / project
  * collaborating in product definitions

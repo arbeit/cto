@@ -1,10 +1,11 @@
 # Muharem Hrnjadovic: curriculum vitae
 
 # About me
-I have held positions that involved some degree of technical leadership (senior/principal engineer, software development manager, director of engineering, CTO) for a decade now. My top 3 strenghts are as follows:
+I have held positions that involved some degree of technical leadership (senior/principal engineer, software development manager, director of engineering, CTO) [for a decade now](https://ch.linkedin.com/in/mhrnjad).
+My top 3 strenghts are as follows:
  * building, developing and running high-performance teams (local and/or remote)
- * providing technological leadership and guidance to the entire organisation (based on 20+ years of software development experience)
- * building systems
+ * providing technology leadership and guidance to the entire organisation (based on 20+ years of software development experience)
+ * building IT systems
 
 # My skills
 ## People / culture

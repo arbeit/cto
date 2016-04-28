@@ -35,7 +35,7 @@ Various linuxes e.g. Ubuntu, Arch
  * Automation & deployment: I know of tools like puppet, ansible etc. and have dabbled with them. Have also played with docker more recently.
 
 ## Social
-## Remote work
+### Remote work
 I have worked remotely and/or with remote teams for 5+ years. This is my preferred modus operandi.
 
 ### Agile teams

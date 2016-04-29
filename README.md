@@ -1,6 +1,6 @@
 # Muharem Hrnjadovic: curriculum vitae
 
-![Muharem Hrnjadovic](http://github.com/arbeit/cto/images/photo.jpg)
+![Muharem Hrnjadovic](http://github.com/arbeit/cto/blob/master/images/photo.jpg?raw=true)
 
 # About me
 I have held positions that involved some degree of technical leadership (senior/principal engineer, software development manager, director of engineering, CTO) [for a decade now](https://ch.linkedin.com/in/mhrnjad).

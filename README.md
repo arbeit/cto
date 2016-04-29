@@ -16,7 +16,7 @@ My top 3 strenghts are as follows:
  * establishing a culture of experimentation, iterative development, quality and delivery
 
 ## Product / project
- * collaborating in product definitions
+ * participation in product definitions
  * breaking products / services down to technical requirements
  * running the feedback loop between the technical / business team
 
